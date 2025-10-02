@@ -65,14 +65,10 @@ To get a local copy up and running, follow these simple steps.
     ```
 ## 📸 Screenshots
 
-### Home Screen
-![Home Screen](screenshots/Home.jpg)
+| Home Screen | Details Screen | Subscription Screen |
+|-------------|----------------|---------------------|
+| ![Home](screenshots/Home.jpg) | ![Details](screenshots/details.jpg) | ![Subscription](screenshots/subscription.jpg) |
 
-### details Screen
-![details Screenscreenshots/details.jpg)
-
-### subscription Screen
-![subscription Screen](screenshots/subscription.jpg)   
 
 ## 📸 video demo
 ![video demo](screenshots/demo.gif) 
